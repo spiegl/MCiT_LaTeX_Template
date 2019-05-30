@@ -5,8 +5,8 @@ This repository contains LaTeX templates, which comply to the standards of the M
 | Template | Download zip file                    |
 | -------  | ------------------------------------ |
 | Article  | [ .. still in progress ..]           |
-| Exposé   | [Expose.zip](raw/master/templates/Expose.zip)  |
-| Theses   | [Thesis.zip](raw/master/templates/Thesis.zip)   |
+| Exposé   | [Expose.zip](https://github.com/spiegl/MCiT_LaTeX_Template/raw/master/templates/Expose.zip)  |
+| Theses   | [Thesis.zip](https://github.com/spiegl/MCiT_LaTeX_Template/raw/master/templates/Thesis.zip)   |
 
 ## How to use
 
