@@ -31,7 +31,7 @@ These Templates are a frist draft and will be improved!
 - Create a documentation of commands used in the packages
 - Finish MCiT Article Template
 - Add support for better headers and footers
-- Style Tables accoring to APA
+- Style Tables according to APA
 
 ## Contribution
 
