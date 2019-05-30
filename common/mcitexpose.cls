@@ -1,4 +1,4 @@
-%% mcitarticle.cls
+%% mcitexpose.cls
 %% 
 %% Author: Daniel Mur-Spiegl <news@spiegl.me>
 %% ------------------------------------------
@@ -20,7 +20,7 @@
 \DeclareOption{master}{\PassOptionsToPackage{\CurrentOption}{mcit}}
 \DeclareOption{bachelor}{\PassOptionsToPackage{\CurrentOption}{mcit}}
 \DeclareOption*{
-    \ClassWarning{mcitarticle}{Unknown document option '\CurrentOption'.}
+    \ClassWarning{mcitexpose}{Unknown document option '\CurrentOption'.}
 }
 \ProcessOptions
 
