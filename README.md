@@ -5,12 +5,12 @@ This repository contains LaTeX templates, which comply to the standards of the M
 | Template | Download zip file                    |
 | -------  | ------------------------------------ |
 | Article  | [ .. still in progress ..]           |
-| Exposé   | [Article.zip](templates/Expose.zip)  |
-| Theses   | [Thesis.zip](templates/Thesis.zip)   |
+| Exposé   | [Expose.zip](raw/master/templates/Expose.zip)  |
+| Theses   | [Thesis.zip](raw/master/templates/Thesis.zip)   |
 
 ## How to use
 
-
+I recommend to use [Visual Studio Code](https://code.visualstudio.com/) with the [LaTeX Workshop Extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop). Works fine on Linux, Windows and Mac.
 
 ## Technical Inforamion
 
