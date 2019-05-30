@@ -10,6 +10,10 @@ This repository contains LaTeX templates, which comply to the standards of the M
 
 ## How to use
 
+Download the needed zip file form above and start working :-)
+
+I highly recommend to **only edit the normal .tex files and to write the main content in document.tex**, in oder that your work will be updateable!
+
 I recommend to use [Visual Studio Code](https://code.visualstudio.com/) with the [LaTeX Workshop Extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop). Works fine on Linux, Windows and Mac.
 
 ## Technical Inforamion
