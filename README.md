@@ -10,7 +10,7 @@ This repository contains LaTeX templates, which comply to the standards of the M
 
 ## How to use
 
-Download the needed zip file form above and start working :-)
+Download the needed zip file form above and start working 🤗.
 
 I highly recommend to **only edit the normal .tex files and to write the main content in document.tex**, in oder that your work will be updateable!
 
