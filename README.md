@@ -35,4 +35,4 @@ These Templates are a frist draft and will be improved!
 
 ## Contribution
 
-Please feel free to create a [new Issue](https://github.com/spiegl/MCiT_LaTeX_Template/issues/new)!
+Please feel free to create a [new Issue](https://github.com/spiegl/MCiT_LaTeX_Template/issues/new?template=bug-report.md)!
